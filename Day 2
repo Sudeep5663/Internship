@@ -1,4 +1,5 @@
-I was going through LLM, RAG how they work and there code representations.
+I explored the working principles of LLMs and RAG, along with their code implementations.
+
 1. https://aws.amazon.com/what-is/retrieval-augmented-generation/
 2. https://aws.amazon.com/what-is/large-language-model/
 3. https://medium.com/@cpaggen/minimal-python-code-for-local-llm-inference-112782af509a
